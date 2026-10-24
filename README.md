@@ -1,5 +1,4 @@
-# -Student-Management-System
-A java based CLI application for managing student records with CRUD operations and file-based data persistence.
+
 # Student Management System (Java)
 
 A console-based Java application designed to perform complete CRUD (Create, Read, Update, Delete) operations on student records with file-based data persistence.
